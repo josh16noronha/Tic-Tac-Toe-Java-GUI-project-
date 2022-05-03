@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ This\ main\ file\ implements\ the\ Runnable\ package\ to\ make\r\n\ sure\ that\ the\ TicTacToeGUI\ code\ runs\ similtaniously.\r\n\r\n\ @author\ Joshus\ Noronha\r\n\ @version\ April\ 2,\ 2022\r\n
+comment1.params=
+comment1.target=Main()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Main\ makes\ sure\ that\ \r\n\ all\ the\ code\ is\ compressed\ to\ run\ simultaneously.\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ This\ method\ runs\ the\ TicTacToeGUI.\r\n\r\n
+numComments=3
